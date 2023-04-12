@@ -1,6 +1,5 @@
-# PS1 - Your first job as an engineer
+# Your first job as an engineer
 
-## Deadline: 24.10.2021 23.00 (Sunday)
 
 You are an engineer at a data science company and they assign you a new task, which is an hyperparameter optimization task.
 Your job will be finding the optimal parameter that maximizes a polynomial function. For this, you need to try out different values
